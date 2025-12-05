@@ -1,8 +1,21 @@
 # note_app
+Aplikasi Notepad Sederhana
 
-A new Flutter project.
+Anggota:
+Fadli Akbar
+Hafizh Hisbullah
 
 ## Getting Started
+
+✅ Kegunaan
+ Bisa membuat note baru
+ Bisa mengedit note
+ Bisa menghapus note
+
+<img width="1282" height="869" alt="image" src="https://github.com/user-attachments/assets/823ed0b0-f35b-4b3f-a66c-73dd50303181" />
+
+
+
 
 This project is a starting point for a Flutter application.
 
