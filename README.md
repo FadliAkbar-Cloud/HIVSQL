@@ -11,6 +11,8 @@ Fadli Akbar dan Hafizh Hisbullah
  Bisa mengedit note
  Bisa menghapus note
 
+ Pak maaf ini mengerjakan pakai satu akun github di karenakan salah satu kelompok belum memiliki laptop 
+
 <img width="1282" height="869" alt="image" src="https://github.com/user-attachments/assets/823ed0b0-f35b-4b3f-a66c-73dd50303181" />
 
 
