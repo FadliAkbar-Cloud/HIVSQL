@@ -2,8 +2,7 @@
 Aplikasi Notepad Sederhana
 
 Anggota:
-Fadli Akbar
-Hafizh Hisbullah
+Fadli Akbar dan Hafizh Hisbullah
 
 ## Getting Started
 
